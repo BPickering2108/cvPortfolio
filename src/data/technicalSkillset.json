@@ -1,0 +1,27 @@
+[
+    {
+      "name": "Operating Systems.txt",
+      "category": "Operating Systems",
+      "content": "OPERATING SYSTEMS EXPERTISE\n\n═══════════════════════════════════════════════════════════\n\n🖥️ WINDOWS SYSTEMS\n• Windows 10, 11 (Client systems)\n• Windows Server 2003 - 2022 (Full range)\n\n🍎 APPLE SYSTEMS\n• MacOS (Big Sur - Sequoia)\n• iOS (15 - 18)\n• iPadOS (13 - 18)\n\n🐧 LINUX SYSTEMS\n• Ubuntu (Basic administration)\n• Debian (Basic administration)\n\n🎯 KEY STRENGTHS\n• Multi-platform environment management\n• Legacy system support and modernization\n• System migration and upgrade planning\n• Cross-platform compatibility solutions"
+    },
+    {
+      "name": "Administration Services.txt",
+      "category": "Administration Services",
+      "content": "ADMINISTRATION SERVICES\n\n═══════════════════════════════════════════════════════════\n\n🔐 IDENTITY & ACCESS MANAGEMENT\n• Active Directory\n• Azure Entra ID (Azure AD)\n• Single Sign-On (SSO) implementation\n• Multi-factor authentication setup\n• Role-based access control (RBAC)\n• Connected Organisation onboarding (Azure Identity Governance)\n• Internal and External access package management (Azure Identity Governance)\n\n📧 MESSAGING & COLLABORATION\n• Exchange Server 2016\n• Exchange Online\n• Microsoft Teams administration\n• Microsoft 365 suite management\n• SharePoint administration\n\n🔧 INFRASTRUCTURE SERVICES\n• DNS/DHCP management\n• IIS 7-10 web server administration\n• SSL Certificate management\n• Backup solutions (Cohesity)\n\n☁️ CLOUD & MODERN MANAGEMENT\n• Microsoft Azure administration\n• Microsoft Intune (Mobile Device Management)\n• SCCM and MECM (Microsoft Endpoint Configuration Manager)\n• MobileIron\n• Hybrid cloud environments"
+    },
+    {
+      "name": "Scripting and Automation.txt",
+      "category": "Scripting & Development",
+      "content": "SCRIPTING AND AUTOMATION\n\n═══════════════════════════════════════════════════════════\n\n⚡ POWERSHELL EXPERTISE\n• Advanced PowerShell scripting\n• Automation of administrative tasks\n• Custom module development and deployment to internal repository\n\n🔄 AUTOMATION PLATFORMS\n• Power Automate (Basic workflow automation)\n• Scheduled task management (Task Schedular and VisualCron)\n\n💻 SCRIPTING LANGUAGES\n• PowerShell\n• Windows Batch Script\n• Visual Basic for Applications - VBA (Basic)\n• Python (Basic)\n• Bash scripting (Linux environments)\n• KQL - Kusto Query Language (Basic)\n\n🌐 WEB TECHNOLOGIES\n• HTML, CSS, and JavaScript (Basic)\n• Web application troubleshooting\n• API creation and integration basics"
+    },
+    {
+      "name": "Security and Compliance.txt",
+      "category": "Security & Compliance",
+      "content": "SECURITY AND COMPLIANCE\n\n═══════════════════════════════════════════════════════════\n\n🛡️ SECURITY MANAGEMENT\n• Microsoft Defender onboarding\n• SentinelOne antivirus deployment\n• Vulnerability assessment and remediation\n• Identity exposure monitoring (Tenable)\n\n🔐 ACCESS CONTROL\n• Azure Identity Governance\n• Conditional access policies\n• Privileged access management\n• Certificate and client secret renewals\n• Multi-factor authentication deployment\n\n📋 COMPLIANCE & GOVERNANCE\n• Security policy implementation\n• Compliance monitoring and reporting\n• Risk assessment procedures\n• Incident response and remediation\n• Documentation and audit trails\n\n🔄 SECURITY OPERATIONS\n• OS patching strategies\n• Security incident coordination\n• Purple Team event response\n• Implementation of cybersecurity best practices\n\n🎯 SECURITY ACHIEVEMENTS\n• Led security hardening initiatives\n• Implemented identity governance frameworks\n• Modernized legacy system security"
+    },
+    {
+      "name": "Service/Project Management.txt",
+      "category": "Leadership & Management",
+      "content": "LEADERSHIP AND PROJECT MANAGEMENT\n\n═══════════════════════════════════════════════════════════\n\n👥 LEADERSHIP EXPERIENCE\n• Team management (~100 people experience)\n• Strategic mentorship of junior team members\n• Cross-departmental collaboration\n• Interim team lead responsibilities\n• Technical training delivery\n\n📊 PROJECT LEADERSHIP\n• Infrastructure upgrade projects\n• Security implementation initiatives\n• Technology migration projects\n• System modernisation programs\n• Training program development\n\n🎯 PLANNING & EXECUTION\n• Structured approach to task planning\n• Workload prioritization\n• Resource allocation and management\n• Risk assessment and mitigation\n• Stakeholder coordination and engagement\n\n🔄 CHANGE MANAGEMENT\n• Business compliance assurance\n• Communication planning\n• User adoption strategies\n• Documentation and knowledge transfer\n\n🏆 LEADERSHIP ACHIEVEMENTS\n• Successfully managed large-scale teams\n• Delivered complex infrastructure projects\n• Coordinated multi-departmental initiatives\n• Developed and delivered technical training\n• Mentored junior staff to career advancement"
+    }
+  ]

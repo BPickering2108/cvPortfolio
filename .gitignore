@@ -1,0 +1,4 @@
+tasktracker.md
+node_modules
+src/views/mainLogin.vue
+*.old
